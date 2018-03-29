@@ -1,3 +1,8 @@
+/**
+√∞≈›≈≈–ÚÀ„∑®JAVA µœ÷°£
+
+
+*/
 public class	BubbleClass {
 	public int[] bubble(int []array){
 		if(array.length==0){
